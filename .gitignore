@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+.stylelintcache
+.vite/
+.vercel/
+.next/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.swp
