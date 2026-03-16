@@ -2,7 +2,7 @@
 
 > **Transforme planilhas brutas em relatórios inteligentes com um clique.**
 
-![SmartReport Demo](.media/Demo.gif)
+![SmartReport Demo](https://github.com/Wilcleyber/SmartReport_Frontend/blob/main/media/Demo.gif)
 
 ## 🚀 Teste Online agora!
 Clique no link abaixo para acessar a versão oficial do projeto:
