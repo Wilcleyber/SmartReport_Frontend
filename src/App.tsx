@@ -1,4 +1,3 @@
-import React from 'react';
 import { Navbar } from './components/layout/Navbar';
 import { ErrorBoundary } from './components/feedback/ErrorBoundary';
 import { Dashboard } from './views/Dashboard';
